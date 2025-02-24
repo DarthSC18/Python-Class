@@ -1,4 +1,4 @@
-prac 7-3
+prac 8-1
 class Employee:
     def __init__(self,name,salary):
         self.name=name
