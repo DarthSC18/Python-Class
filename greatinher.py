@@ -1,5 +1,4 @@
 #write a python code to calc greatest of 2 numbers using inheritsnce
-#prac 7-4
 class Number1:
     def __init__(self,x):
         self.x=x
