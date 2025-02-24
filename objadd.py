@@ -1,7 +1,7 @@
 #write a python code to perform addition of 2 com plex numbers by passing object as a parameter
 #write a python code to perform addition of 2 complex numbers by passing object as a parameter
 #self.variable=current objec.variable
-#prac7:24-02025
+#prac7-1:24-02025
 class complex:
     def __init__(self,real,img):
         self.real=real
